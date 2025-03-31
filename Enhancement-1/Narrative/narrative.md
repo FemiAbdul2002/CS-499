@@ -1,33 +1,42 @@
-**Artifact Enhancement Narrative: Software Design and Engineering
-
+Milestone Two Narrative: Software Design and Engineering
 Name: Femi Abdul
-Course: CS 499 – Computer Science Capstone
-Enhancement Area: Software Design and Engineering
+ Course: CS 499
+ Milestone Two: Software Design and Engineering Enhancement
+ Date: 3/21/2025
 
-Description of the Artifact
-The artifact selected for this enhancement is the "Pirate Intelligent Agent" project developed in CS-370: Artificial Intelligence. Originally built as a reinforcement learning simulation, the project trains an AI-powered pirate to navigate a maze and find a hidden treasure while avoiding traps. The original version focused on building a basic Q-learning algorithm to help the agent learn optimal movement strategies.
+Artifact Description
+The artifact I selected is from my CS-370 course, titled the Pirate Intelligent Agent Project. It was originally created as a reinforcement learning (RL) project where an AI agent learns to navigate a treasure maze using the Q-learning algorithm. The code includes a maze environment (TreasureMaze class), a neural network model (build_model function), and the Q-learning training process (qtrain function). I chose this artifact because it reflects solid software design principles, modular architecture, and a real-world AI application.
 
-Why This Artifact Was Chosen
-I chose this artifact because it demonstrates a solid foundation in AI behavior modeling and provides a strong opportunity to enhance software design through better structure, modularity, and maintainability. It also ties directly into areas where I want to grow professionally—AI and machine learning—and highlights my ability to take a conceptual model and implement it in code.
+Justification for Inclusion in ePortfolio
+This artifact showcases my skills in modular software engineering, algorithm design, and neural network integration. Enhancing this project gave me the opportunity to improve its structure, readability, and maintainability — all critical traits of professional-quality software. Specifically, I:
+Refactored the code to be more modular and readable.
 
-Enhancements Made
-Several improvements were made to align this artifact with professional software engineering standards:
 
-Modularization: The Q-table functionality was moved into a separate class, improving readability and separation of concerns.
-Documentation: Docstrings and inline comments were added throughout the code to explain the logic behind functions and variable choices.
-User-Friendly Output: Console outputs were reformatted to improve clarity during training.
-Epsilon-Greedy Strategy: Implemented epsilon decay to improve learning efficiency over time.
-Dynamic Learning Rate: Introduced a decaying learning rate to stabilize training.
-These enhancements made the code easier to maintain, reuse, and scale.
+Enhanced commenting and documentation, making it easier for others to understand.
 
-Skills and Abilities Demonstrated
-Code organization and refactoring using object-oriented design principles
-Improved readability and commenting for better team collaboration
-Advanced control over AI training parameters to fine-tune learning performance
-Preparation for future database integration by abstracting Q-table logic into a separate module
-Reflection on the Learning Process
-Enhancing this project gave me deeper insights into how structured software design leads to more maintainable and scalable AI solutions. Initially, the code worked but lacked modularity and clear boundaries between logic layers. By breaking the system into classes and methods with specific responsibilities, I gained experience working closer to how production AI systems are architected.
 
-One of the main challenges was ensuring that the restructuring of the code didn't interfere with its performance. I had to test the agent’s performance thoroughly after each change to ensure that learning behavior remained consistent. Another challenge was tuning the epsilon and learning rate decay formulas so that they didn't prematurely reduce exploration or halt learning too early. After research and iteration, I found balanced decay rates that resulted in improved overall performance.
+Improved the architecture of the training loop to allow future upgrades like database integration.
 
-This artifact, now improved through better design and structure, stands as a strong example of my capabilities in software design and engineering, particularly in AI development contexts.
+
+Followed design principles by separating concerns (maze logic, training logic, and model design).
+
+
+These updates demonstrate my growing capability to write clean, well-structured code that solves complex problems.
+
+Course Outcomes Achieved
+In Module One, I planned to meet outcomes related to software engineering and design, and I have achieved that. I successfully demonstrated:
+Implementation of modular code design.
+
+
+Use of programming techniques that support AI learning systems.
+
+
+Incorporation of software engineering principles to make the artifact extensible.
+
+
+For future milestones, I plan to build on this enhancement by incorporating a simple database to persist training data, which will support outcomes related to databases and security-conscious design.
+
+Reflection on the Enhancement Process
+While working on this enhancement, I learned how much thoughtful design can impact the long-term usability of a codebase. I gained a better understanding of how to separate concerns in code, improve documentation, and prepare code for scalability. One challenge was identifying which parts of the training logic needed abstraction without losing clarity. Another was making sure any changes still allowed the agent to train effectively.
+This experience reinforced the importance of writing maintainable code not just functional code, especially for team collaboration or future modifications. The improvements I made have made the artifact more robust and representative of real-world software development practices.
+
