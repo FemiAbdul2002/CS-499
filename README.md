@@ -1,4 +1,4 @@
-Femi Abdul's CS 499 ePortfolio
+Femi Abdul's CS 499 ePortfolio.
 
 Welcome to my professional portfolio for my Computer Science capstone at SNHU.
 
