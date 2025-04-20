@@ -7,7 +7,7 @@ This site highlights my academic growth and technical skills in the following ar
 - ✅ Software Design and Engineering
 - ✅ Algorithms and Data Structures
 - ✅ Databases
-https://github.com/FemiAbdul2002/CS-499/blob/main/Enhancement-2/Narrative/narrative.md
+
  🔗 Explore My Work
 
 - [Professional Self-Assessment](self-assessment.md)
