@@ -11,7 +11,7 @@ This site highlights my academic growth and technical skills in the following ar
  🔗 Explore My Work
 
 - [Professional Self-Assessment](self-assessment.md)
-- [Software Design & Engineering Enhancement](enhancement1/)
-- [Algorithms & Data Structures Enhancement](enhancement2/)
-- [Database Enhancement](enhancement3/)
-- [Code Review Video](video.md)
+- [Software Design & Engineering Enhancement](Enhancement-1)
+- [Algorithms & Data Structures Enhancement](Enhancement-2)
+- [Database Enhancement](Enhancement-3)
+- [Code Review Video](Code review)
