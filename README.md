@@ -12,6 +12,6 @@ This site highlights my academic growth and technical skills in the following ar
 
 - [Professional Self-Assessment](self-assessment.md)
 - [Software Design & Engineering Enhancement](https://github.com/FemiAbdul2002/CS-499/blob/main/Enhancement-1/Narrative/narrative.md)
-- [Algorithms & Data Structures Enhancement](https://github.com/FemiAbdul2002/CS-499/blob/main/Enhancement-2/Narrative/narrative.md)
+- [Algorithms & Data Structures Enhancement](Enhancement-2/narrative.md)
 - [Database Enhancement](https://github.com/FemiAbdul2002/CS-499/blob/main/Enhancement-3/Narrative/narrative.md)
 - [Code Review Video](https://youtu.be/azp1a260fQg)
